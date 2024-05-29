@@ -1,0 +1,6 @@
+discord-moderation-bot/requirements.txt
+discord.py
+python-dotenv
+asyncio
+logging
+datetime
